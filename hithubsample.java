@@ -1,8 +1,6 @@
-package hacker;
-
 public class hithubsample {
 	public static void main(String[] args) {
-	System.out.println("hello world");
+	System.out.println("Naanga oru nari kootam :) bababa babanana");
 }
 }
 
