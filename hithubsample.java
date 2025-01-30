@@ -1,6 +1,6 @@
 public class hithubsample {
 	public static void main(String[] args) {
-	System.out.println("Naanga oru nari kootam :) bababa babanana");
+	System.out.println("Naanga oru nari kootam :) bababa babanana ^-^");
 }
 }
 
